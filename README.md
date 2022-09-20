@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Darsh0503
+- 👋 Hi, I’m Darshan
 - 👀 I’m interested in learning new tricks with python 
 - 🌱 I’m currently working on django framework ...
 - 💞️ I’m looking to collaborate on different types of python coding project
