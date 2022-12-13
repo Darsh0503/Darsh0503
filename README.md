@@ -2,7 +2,6 @@
 
 - 🔭 I belive in free education.
 - 👀 I’m interested in learning new tricks with python 
-- 
 - 🌱 I’m currently working on django framework...
 - 💞️ I’m looking to collaborate on different types of python coding project
 - 📫 Mail me on my Email Id:- darshanpatel36@gmail.com
